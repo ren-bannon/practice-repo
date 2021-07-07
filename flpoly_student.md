@@ -2,26 +2,23 @@
 
 ### Term Year 
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in:
 
-- Course 1
+- Introduction to Data Science
 
-- Course 2
+- Pre-calculus/Algebra
 
-- Course 3
-
-- Course 4
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Computer Science
 
-- Thing 2
+- Linux
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Gaming
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/07
