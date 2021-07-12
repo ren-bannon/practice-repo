@@ -1,6 +1,6 @@
-## First Name Last Name
+## Ren Bannon
 
-### Term Year 
+### 2021r 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in:
 
